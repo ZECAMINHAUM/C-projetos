@@ -21,8 +21,6 @@ main(){
   PONTO p1;
   PONTO p2;
 
-
-
   printf("digite o raio do CIRCULO\n");
   scanf("%f", &c.raio);
   fflush(stdin);
