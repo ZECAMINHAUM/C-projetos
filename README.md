@@ -1,2 +1,2 @@
 # C-projetos
-projetos em C Nível acadêmico
+projects in C with the objective of improving.
